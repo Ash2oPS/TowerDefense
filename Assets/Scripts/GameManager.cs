@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
             case GameState.PREPARATION:
                 gameTimer -= Time.deltaTime;
                 UIManager.instance.SetTimer(gameTimer);
-                if(gameTimer <= preparationTime)
+                if(gameTimer <= 0)
                 {
                     gameTimer = 0;
                     gameState = GameState.RUNNING;

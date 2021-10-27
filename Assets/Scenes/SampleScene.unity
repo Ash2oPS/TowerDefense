@@ -188,6 +188,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 606516797668122797, guid: 103b12c7f8eb69340bc28ccbcb784a34, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 686224107105210376, guid: 103b12c7f8eb69340bc28ccbcb784a34, type: 3}
       propertyPath: m_Name
       value: TowerBase
@@ -604,6 +608,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 747925487371021895, guid: 6bf0d6833d7c7c0448c009e405156ca7, type: 3}
+      propertyPath: m_Color.a
+      value: 0.5019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 747925487371021895, guid: 6bf0d6833d7c7c0448c009e405156ca7, type: 3}
+      propertyPath: m_Color.b
+      value: 0.6801233
+      objectReference: {fileID: 0}
+    - target: {fileID: 747925487371021895, guid: 6bf0d6833d7c7c0448c009e405156ca7, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 747925487371021895, guid: 6bf0d6833d7c7c0448c009e405156ca7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 747925488222324964, guid: 6bf0d6833d7c7c0448c009e405156ca7, type: 3}
       propertyPath: m_RootOrder
       value: 0
