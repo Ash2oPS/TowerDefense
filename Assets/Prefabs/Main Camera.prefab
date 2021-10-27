@@ -109,5 +109,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d587c3c515a339b4d928897fa5562906, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _cameraSpeed: 2
-  _borderSize: 10
+  _cameraSpeed: 5
+  _borderSize: 30
